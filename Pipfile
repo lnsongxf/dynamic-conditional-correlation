@@ -7,6 +7,9 @@ verify_ssl = true
 
 [packages]
 ipykernel = "*"
+numpy = "*"
+pandas-datareader = "*"
+matplotlib = "*"
 
 [requires]
 python_version = "3.8"
